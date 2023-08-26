@@ -1,1 +1,2 @@
-# temp
+git reset
+git revert
